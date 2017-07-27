@@ -1,3 +1,4 @@
+
 package logininfeed;
 import java.util.Scanner;
 import java.lang.*;
@@ -25,13 +26,6 @@ public class B {
 		 age=SC.nextInt();
 		
 	}
-	void display()
-	{
-	 System.out.println("hiiii  "+ name + ":)");
-	 System.out.println("your details are:");
-	 System.out.println("name:"+name);
-	 System.out.println("city:"+city);
-	 System.out.println("age:"+age);
-	}
+	
  
 }
